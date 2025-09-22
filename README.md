@@ -10,7 +10,7 @@
 
 <!-- Animated Gradient Background + Transparent Coding Robot -->
 <p align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="Working at desk"/>
 </p>
 
 ---
