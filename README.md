@@ -4,105 +4,81 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=💻+Full+Stack+Web+Developer;🚀+MERN+Stack+Enthusiast;🎨+UI%2FUX+Designer;📊+Problem+Solver+%26+Innovator;🌟+Lifelong+Learner" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=💻+Full+Stack+Web+Developer;💻+Frontend+Developer;💻+Backend+Developer;📊+Problem+Solver+%26+Innovator;" alt="Typing Animation" />
   </a>
 </p>
 
+<!-- Animated Gradient Background + Transparent Coding Robot -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360px" alt="Coding GIF"/>
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </p>
 
 ---
 
 ## 🌟 About Me
-Creative **Full Stack Web Developer** (3+ years) — building scalable, high-performing, and beautiful web apps.  
-Specialties: MERN stack, Next.js, TypeScript, Tailwind, UI/UX, cloud deployments.
+- ⚡ Passionate **Full Stack Web Developer** with 3+ years of hands-on experience.  
+- 🚀 Specialized in **MERN Stack** (MongoDB, Express, React, Node).  
+- 🎨 Strong eye for **UI/UX design** and building responsive interfaces.  
+- 🌍 Love solving real-world problems with modern web technologies.  
+- ☁️ Skilled in **Cloud Deployments** (AWS, Firebase, Vercel).  
+- 🤝 Enjoy **collaboration, leadership, and continuous learning**.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,bootstrap,tailwind,redux,aws,firebase,figma,git,vercel" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45"/></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="45"/></a>
+  <a href="https://reactjs.org/" title="React"><img src="https://skillicons.dev/icons?i=react" width="45"/></a>
+  <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/></a>
+  <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="45"/></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/></a>
+  <a href="https://redux.js.org/" title="Redux Toolkit"><img src="https://skillicons.dev/icons?i=redux" width="45"/></a>
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="45"/></a>
+  <a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" width="45"/></a>
+  <a href="https://figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="45"/></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="45"/></a>
 </p>
-
----
-
-## 🚀 Featured Projects (short & visual)
-- 🔥 **Explore Ceylona** — Travel booking platform (React, Node, MongoDB)  
-- 🩸 **Blood Connect** — Real-time blood donation & request system (React, Google Maps)  
-- 🚗 **Car Rental System** — Bookings, auth & cost calc (Next.js, Redux)  
-- 🍕 **Pizza Den** — Food ordering app (React, Express, MongoDB)  
-- 📌 **Portfolio Website** — Personal site with projects & contact (Next.js, Tailwind)
 
 ---
 
 ## 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LGCDMBandara&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LGCDMBandara&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LGCDMBandara&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGCDMBandara&layout=compact&langs_count=8&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LGCDMBandara&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🏅 Contribution Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LGCDMBandara&theme=radical&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LGCDMBandara&theme=radical" height="180"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake (animated)
-<!-- This image is generated by a GitHub Action (Platane/snk). See workflow below. -->
+## 👀 Visitor Counter  
+
 <p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/LGCDMBandara/LGCDMBandara/output/github-contribution-grid-snake.svg" />
+  <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 </p>
 
-> 🔁 The snake image is auto-generated and updated by a GitHub Action. If you don't see it, run the workflow (or check the `output/` branch) — instructions are below.
-
----
-
-## 👀 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LGCDMBandara&label=👀+Profile+Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=LGCDMBandara&label=Profile+Visitors&color=blue&style=for-the-badge&logo=github" alt="GitHub Profile Views"/>
 </p>
 
 ---
 
-## 💡 Random Dev Quote (auto-updating)
+## 🤝 Connect With Me  
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <a href="mailto:dchathura509@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="60"/></a>
+  <a href="http://www.chathuraportfolio.me/"><img src="https://img.icons8.com/clouds/100/000000/domain.png" width="60"/></a>
+  <a href="https://github.com/LGCDMBandara"><img src="https://img.icons8.com/clouds/100/000000/github.png" width="60"/></a>
+  <a href="https://www.linkedin.com/in/chathura-dilshan-73bb612b0"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="60"/></a>
 </p>
-
----
-
-## 😂 Daily Dev Joke (auto-updating)
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Daily Joke" />
-</p>
-
----
-
-## 🤝 Connect With Me
-<p align="center">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</p>
-
----
-
-## ⚡ Fun Zone
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Coding Fun"/>
-</p>
-🎮 Gamer | 🎨 Designer | 🌍 Explorer | ☕ Coffee Lover
-
----
-
-*Made with 💜 — Chathura Dilshan*
 
