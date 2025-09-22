@@ -1,92 +1,108 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#ff6f61;">Chathura Dilshan</span></h1>
+<!--- README.md for GitHub profile --->
+
+<h1 align="center">✨ Hi, I'm <span style="color:#FF5733;">Chathura Dilshan</span> ✨</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=💻+Full+Stack+Web+Developer;🚀+MERN+Stack+Enthusiast;🎨+UI%2FUX+Designer;🌐+Open+Source+Contributor;📊+Problem+Solver+%26+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=💻+Full+Stack+Web+Developer;🚀+MERN+Stack+Enthusiast;🎨+UI%2FUX+Designer;📊+Problem+Solver+%26+Innovator;🌟+Lifelong+Learner" alt="Typing Animation" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360px" alt="Coding GIF"/>
 </p>
 
 ---
 
-## 🌟 About Me  
-✨ I am a **Full Stack Web Developer** passionate about crafting **scalable, user-friendly, and high-performing applications**.  
-💡 With **3+ years of experience**, I thrive in building **MERN stack projects**, optimizing **UI/UX**, and deploying cloud solutions.  
-⚡ Always eager to **learn, innovate, and collaborate** with like-minded developers.  
+## 🌟 About Me
+Creative **Full Stack Web Developer** (3+ years) — building scalable, high-performing, and beautiful web apps.  
+Specialties: MERN stack, Next.js, TypeScript, Tailwind, UI/UX, cloud deployments.
 
 ---
 
-## 🛠️ Tech Stack  
-
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,bootstrap,tailwind,redux,aws,firebase,figma,git,vercel" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
-
-🔹 **[🌍 Explore Ceylona](https://github.com/LGCDMBandara/Explore-Ceylona.git)**  
-🧳 Online Travel Booking System for Sri Lanka.  
-⚙️ *React JS | Bootstrap | Node.js | Express.js | MongoDB*  
-
-🔹 **[🩸 Blood Connect](https://github.com/LGCDMBandara/Mini-Project.git)**  
-Real-time blood donation and request system with maps & stock management.  
-⚙️ *React JS | Bootstrap | Node.js | Express.js | MongoDB | Google Maps API*  
-
-🔹 **[🚗 Car Rental](https://github.com/LGCDMBandara/Car-Rental.git)**  
-Car booking platform with Firebase Auth & Redux Toolkit.  
-⚙️ *Next.js | Tailwind | TypeScript | MongoDB | Redux Toolkit*  
-
-🔹 **[🍕 Pizza Den](https://github.com/LGCDMBandara/Pizza-Den-Web-App.git)**  
-Online Food Ordering App aligned with BRD requirements.  
-⚙️ *React JS | Node.js | Express.js | MongoDB*  
-
-🔹 **[📌 Portfolio](https://github.com/LGCDMBandara/portfolio.git)**  
-Responsive personal portfolio showcasing skills & projects.  
-⚙️ *Next.js | Tailwind | TypeScript*  
+## 🚀 Featured Projects (short & visual)
+- 🔥 **Explore Ceylona** — Travel booking platform (React, Node, MongoDB)  
+- 🩸 **Blood Connect** — Real-time blood donation & request system (React, Google Maps)  
+- 🚗 **Car Rental System** — Bookings, auth & cost calc (Next.js, Redux)  
+- 🍕 **Pizza Den** — Food ordering app (React, Express, MongoDB)  
+- 📌 **Portfolio Website** — Personal site with projects & contact (Next.js, Tailwind)
 
 ---
 
-## 🏆 Achievements  
-🏅 Finalist – **HackX 2022 Inter University Startup Challenge**  
-👨‍💻 Committee Member – **Society of Technological Studies**  
-
----
-
-## 💼 Experience  
-- **Frontend Developer @ Skill City**  
-  ✨ Built responsive web apps with **React & Bootstrap**  
-  ✨ Ensured cross-browser compatibility & optimized performance  
-
-- **Freelance Developer (2023 – Present)**  
-  🔹 Developed MERN stack projects for global clients  
-  🔹 Integrated REST APIs & delivered optimized UI/UX solutions  
-
----
-
-## 🤝 Connect With Me  
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LGCDMBandara&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LGCDMBandara&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
 
 <p align="center">
-  <a href="mailto:dchathura509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="http://www.chathuraportfolio.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://github.com/LGCDMBandara/"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/chathura-dilshan-73bb612b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LGCDMBandara&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## ⚡ Fun Zone  
-
+## 🏅 Contribution Trophies
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Coding GIF"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LGCDMBandara&theme=radical&row=2&column=4" alt="GitHub Trophies"/>
 </p>
-
-🎮 Gamer | 🎨 Designer | 🌍 Explorer | ☕ Coffee Lover  
 
 ---
 
-⭐️ From [Chathura Dilshan](https://github.com/LGCDMBandara)  
+## 🐍 Contribution Snake (animated)
+<!-- This image is generated by a GitHub Action (Platane/snk). See workflow below. -->
+<p align="center">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/LGCDMBandara/LGCDMBandara/output/github-contribution-grid-snake.svg" />
+</p>
+
+> 🔁 The snake image is auto-generated and updated by a GitHub Action. If you don't see it, run the workflow (or check the `output/` branch) — instructions are below.
+
+---
+
+## 👀 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LGCDMBandara&label=👀+Profile+Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
+
+---
+
+## 💡 Random Dev Quote (auto-updating)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+## 😂 Daily Dev Joke (auto-updating)
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Daily Joke" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</p>
+
+---
+
+## ⚡ Fun Zone
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Coding Fun"/>
+</p>
+🎮 Gamer | 🎨 Designer | 🌍 Explorer | ☕ Coffee Lover
+
+---
+
+*Made with 💜 — Chathura Dilshan*
+
